@@ -1,12 +1,11 @@
 ## Hello, I'm Adil 👋 
 
-I'm a software engineer based in Kochi, India. I was born and raised in India, where I learned how to code in high school.  I have worked in several areas of sales engineering including cloud, automation and databases. I have also worked as a developer/Architect with many Companies. 
-
-I am a profficient in Javascript, HTML, CSS, React, PosgreSQL. Beyond that, I have experience deploying applicatons on AWS, building APIs with GraphQL  experience. 
+I'm a software engineer based in Kochi, India. I was born and raised in India, where I learned how to code in high school. 
+A dynamic professional with 9 years of industry experience both Frontend and Backend Development. Skilled in React JS, JavaScript, Php, Laravel, PhalconPhp, CSS and HTML
 
 
 ## ☎️ Connect With Me
 
-- LinkedIn: [alan-alban](https://www.linkedin.com/in/mohammed-adil-11049654/)
+- LinkedIn: [Adil](https://www.linkedin.com/in/mohammed-adil-11049654/)
 - Facebook: [Adil](https://www.facebook.com/mohdadilvp)
 
