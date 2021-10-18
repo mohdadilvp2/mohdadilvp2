@@ -1,6 +1,6 @@
 ## Hello, I'm Adil 👋 
 
-I'm a software engineer based in Kochi, India. I was born and raised in India, where I learned how to code in high school. 
+I'm a software engineer based in Kochi, India. I was born and raised in India. 
 A dynamic professional with 9 years of industry experience both Frontend and Backend Development. Skilled in React JS, JavaScript, Php, Laravel, PhalconPhp, CSS and HTML
 
 
